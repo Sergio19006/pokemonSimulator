@@ -1,0 +1,16 @@
+.board{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.card{
+    flex-direction: column;
+    justify-items: center;
+    align-content: center;
+}
+h1{
+    text-align: center;
+}
